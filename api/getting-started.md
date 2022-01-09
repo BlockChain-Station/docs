@@ -13,7 +13,7 @@ The API server is published on [enter-api-graphql](https://github.com/Fantom-fou
 An example of implementation of a client using this API is our new Blockchain Station™ Explorer EnterScan. It's source code is also publicly available in our GitHub projects collection. Please check our GitHub repository for more information.
 
 {% hint style="info" %}
-We also support standard Ethereum Web3 API. Use websocket provider with our public API address [wss://tapi.entercoin.net ](wss://wsapi.fantom.network)to interact with Blockchain Station™ using Web3 client library.
+We also support standard Ethereum Web3 API. Use websocket provider with our public API address [wss://tapi.bcsdev.io ](wss://wsapi.fantom.network)to interact with Blockchain Station™ using Web3 client library.
 {% endhint %}
 
 ### Technology

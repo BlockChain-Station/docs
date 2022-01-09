@@ -2,7 +2,7 @@
 
 ## Intro
 
-EnterCoin blockchain is called the Quore, which is a high-performance, highly scalable, customizable, and secure smart-contract platform. The Quore is permissionless, decentralized, and open-source.
+Blockchain Station™ blockchain is called the Quore, which is a high-performance, highly scalable, customizable, and secure smart-contract platform. The Quore is permissionless, decentralized, and open-source.
 
 **HBFT consensus algorithm:** is asynchronous , leaderless, Byzantine Fault-Tolerant, to achieve instant transaction finality. The Blockchain Station™ testnet has served more than 40M transactions with a daily growth of more than 500k transactions.&#x20;
 

@@ -8,7 +8,7 @@ description:
   To become a validator, node must get votes from at least 2/3 of current validators.
 ---
 
-# EnterCoin Node Setup
+# Blockchain Station™ Node Setup
 
 ## Run the following combined command. You can divide it in to commands:
 sudo apt update
