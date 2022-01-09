@@ -1,6 +1,4 @@
-# Blockchain Station™ Documentation
-
-## What is Enter?
+## What is Blockchain Station™?
 
 Blockchain Station™ is a fast, scalable, and secure blockchain platform built on HBFT (an IBFT2 consensus protocol).
 
