@@ -4,7 +4,7 @@ This guide addresses as many questions you might have about Enter as possible. P
 
 [General questions](broken-reference)\
 [ENTER token](broken-reference)\
-[EnterChain network](broken-reference)
+[Blockchain Station™ network](broken-reference)
 
 ## General questions
 
@@ -53,7 +53,7 @@ Here’s a breakdown of the different Enter tokens in circulation at the moment
 2\. ERC20: ENTRC Exists on the Ethereum network\
 3\. BEP20: ENTER Exists on Binance Chain
 
-Note that EnterChain addresses share the same structure as Ethereum addresses (0x…), **but they are not Ethereum addresses**.
+Note that Blockchain Station™ addresses share the same structure as Ethereum addresses (0x…), **but they are not Ethereum addresses**.
 
 ### Can I send ERC20 ENTRC tokens to my Enter Wallet?
 
@@ -95,9 +95,9 @@ Check out [this guide](broken-reference).
 
 No, you cannot stake ENTER on exchanges at the moment.
 
-### How to run a validator on EnterChain?
+### How to run a validator on Blockchain Station™?
 
-To run a validator node on EnterChain, the followings are required:
+To run a validator node on Blockchain Station™, the followings are required:
 
 1. A minimum stake of 1,000 ENTER;
 2. Server with 4 CPU, 16GB RAM, and 1TB diskspace.
@@ -106,19 +106,19 @@ To run a validator node on EnterChain, the followings are required:
 
 You can store ENTER on our official PWA wallet for mobile and desktop.
 
-Please note that the above wallets only support EnterChain Network ENTER. **They do not support ERC20 or BEP2.**
+Please note that the above wallets only support Blockchain Station™ Network ENTER. **They do not support ERC20 or BEP2.**
 
 We are working with other wallet providers to add compatibility for the ENTER token.
 
-## EnterChain network
+## Blockchain Station™ network
 
-### What is EnterChain?
+### What is Blockchain Station™?
 
 Opera is a fully decentralized blockchain network with smart contracts integration for applications. It is compatible with the Ethereum Virtual Machine and powered by Enter's HBFT consensus. Thus, smart contracts developed on Ethereum can run on Enter, with an increase of scalability and security.
 
 ### Is Enter compatible with Ethereum smart contracts?
 
-Yes. EnterChain Network is fully compatible with the Ethereum Virtual Machine (EVM). It also has Web3JS API and RPC support.\
+Yes. Blockchain Station™ Network is fully compatible with the Ethereum Virtual Machine (EVM). It also has Web3JS API and RPC support.\
 All smart contracts written in Solidity or Vyper, compiled and deployed on Ethereum, are fully compatible with the Opera Network.
 
 ### Is Enter compatible with Cosmos SDK?
@@ -127,8 +127,8 @@ Yes. Developers can use Enter's fast and secure HBFT consensus mechanism as a ba
 
 ### What programming languages does Enter support?
 
-EnterChain network supports all smart contract languages that Ethereum supports for the EVM, which include both Solidity and Vyper.
+Blockchain Station™ network supports all smart contract languages that Ethereum supports for the EVM, which include both Solidity and Vyper.
 
 ### When will Enter mainnet go live?
 
-The EnterChain is planned to go live in the first quarter of 2022, after completing the testing and development stage.
+The Blockchain Station™ is planned to go live in the first quarter of 2022, after completing the testing and development stage.

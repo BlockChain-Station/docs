@@ -19,7 +19,7 @@ sudo apt install screen
 ## Setup Java:
 sudo apt install default-jre default-jdk
 
-## Download latest EnterChain client Hyperledger Besu:
+## Download latest Blockchain Station™ client Hyperledger Besu:
 wget https://hyperledger.jfrog.io/artifactory/besu-binaries/besu/21.10.5/besu-21.10.5.zip
 
 ## Install Unzip, if not already installed:
@@ -28,7 +28,7 @@ sudo apt install unzip
 ## Unzip the file, and rename it for ease:
 sudo unzip besu-21.10.5.zip; sudo mv besu-21.10.5 besu
 
-## Add environment so you can run EnterChain client from anywhere:
+## Add environment so you can run Blockchain Station™ client from anywhere:
 sudo nano ~/.bashrc
 
 ## Add the following line to the end of the file. Make sure to put your username:
@@ -42,24 +42,24 @@ mkdir -p enterchain/node01/data
 cd enterchain
 
 ## Create the genesis file, and paste the contents from the genesis file into it:
-# Genesis File: https://github.com/enterchain/EnterChain-Documentation/blob/main/technology/genesis.json
+# Genesis File: https://github.com/enterchain/Blockchain Station™-Documentation/blob/main/technology/genesis.json
 sudo nano genesis.json
    ( Save using Ctrl + O , then exit with Ctrl + x )
    
 ## create static-node.json file and paste the contents of static-nodes file into it:
-# Static-nodes: https://github.com/enterchain/EnterChain-Documentation/blob/main/technology/static-nodes.json
+# Static-nodes: https://github.com/enterchain/Blockchain Station™-Documentation/blob/main/technology/static-nodes.json
 sudo nano static-nodes.json
    ( Save using Ctrl + O , then exit with Ctrl + x )
 
 ## Create a file called config.toml in node01 folder. Paste contents of config.toml into it:
-# Config File: https://github.com/enterchain/EnterChain-Documentation/blob/main/technology/config.toml
+# Config File: https://github.com/enterchain/Blockchain Station™-Documentation/blob/main/technology/config.toml
 cd node01
 sudo nano config.toml
 
 ## Run screen, to keep node running if you close the terminal:
 screen , then hit Enter key.
 
-## Run EnterChain client from node01 folder:
+## Run Blockchain Station™ client from node01 folder:
 besu --config-file=config.toml
 
 ## When the node runs, exit the current screen so it's safe if you close the terminal:

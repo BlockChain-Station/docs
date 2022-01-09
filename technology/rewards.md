@@ -2,7 +2,7 @@
 
 
 
-Reward system in EnterChain is based on multiple options. Each option is independent and can be combined with other options using Enter dApps.
+Reward system in Blockchain Station™ is based on multiple options. Each option is independent and can be combined with other options using Enter dApps.
 
 Rewards are controlled via on-chain smart contracts.
 
