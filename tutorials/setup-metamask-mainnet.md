@@ -10,5 +10,5 @@
 * **RPC URL:** https://tapi.bcsdev.io
 * **Chain ID:** 1214
 * **Symbol:** enter
-* **Block explorer:** https://scan.entercoin.net
+* **Block explorer:** https://scan.bcsdev.io
 
