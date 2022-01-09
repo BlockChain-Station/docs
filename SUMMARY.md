@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Blockchain Station™ Documentation](README.md)
+* [Blockchain Station™](README.md)
 
 ## Quick Start
 
