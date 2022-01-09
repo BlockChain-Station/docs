@@ -1,8 +1,3 @@
----
-description: >-
- 
----
-
 # Blockchain Station™ Documentation
 
 ## What is Enter?
