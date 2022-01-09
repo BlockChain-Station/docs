@@ -30,11 +30,11 @@ RPC: NA
 
 ### Blockchain Station™ testnet
 
-Explorer: https://scantest.entercoin.net
+Explorer: https://testnet.bcsdev.io
 
 Wallet: Soon
 
-RPC: https://tapi.entercoin.net
+RPC: https://tapi.bcsdev.io
 
 ### MetaMask
 
@@ -64,4 +64,4 @@ Evodefi: ENTER <> BSC, Polygon
 
 ## Useful links
 
-Careers [https://entercoin.net/careers/](https://fantom.foundation/careers/)
+Careers [https://blockchainstation.io/careers/](https://fantom.foundation/careers/)

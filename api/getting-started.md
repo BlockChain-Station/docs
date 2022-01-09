@@ -3,7 +3,7 @@
 ## Enter GraphQL API
 
 {% hint style="info" %}
-Public testent access point: [https://tapi.entercoin.net](https://xapi.fantom.network)
+Public testent access point: [https://tapi.bcsdev.io](https://xapi.fantom.network)
 {% endhint %}
 
 Purpose of the API server is to provide high performance [GraphQL](https://graphql.org) API for Enter powered blockchain network. Our aim is to offer access to both low level as well as aggregated blockchain data for remote clients. Client developers can concentrate on their app business logic, instead of dealing with complexity of data and entity relationship inside the Blockchain Station™ blockchain.

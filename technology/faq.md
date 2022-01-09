@@ -1,6 +1,6 @@
 # FAQ
 
-This guide addresses as many questions you might have about Enter as possible. Please refer to this FAQ section before asking questions on Discord. If your question is still unanswered, please reach out to us through the chat function on our [website](https://entercoin.net) in the bottom right corner or join our Discord.
+This guide addresses as many questions you might have about Enter as possible. Please refer to this FAQ section before asking questions on Discord. If your question is still unanswered, please reach out to us through the chat function on our [website](https://blockchainstation.io) in the bottom right corner or join our Discord.
 
 [General questions](broken-reference)\
 [ENTER token](broken-reference)\

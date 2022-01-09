@@ -2,4 +2,4 @@
 
 ## RPC
 
-Testnet: https://tapi.entercoin.net
+Testnet: https://tapi.bcsdev.io
