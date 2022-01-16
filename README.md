@@ -6,7 +6,7 @@ Blockchain Station™ is a fast, scalable, and secure blockchain platform built 
 
 Blockchain Station™ is:&#x20;
 
-* permissionless
+* Permissionless
 * decentralized
 * open-source
 * user friendly
