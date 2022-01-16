@@ -10,7 +10,7 @@ Smart contracts have a Fantom address like other accounts.
 ## **Requirements**
 
 * Bytecode (compiled code) of your smart contract
-* ENTERt for gas costs
+* TPLAY for gas costs
 * Deployment script/plugin
 * Access to an Enter node, either by running your own node or API access to a node.
 
